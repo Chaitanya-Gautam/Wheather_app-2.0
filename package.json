@@ -1,0 +1,19 @@
+{
+  "name": "wheather-app",
+  "version": "1.0.0",
+  "description": "This project is hosted via Heroku",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "author": "Chaitanya Gautam",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  }
+  
+}
